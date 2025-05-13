@@ -5,7 +5,7 @@
     <title>Simple Calculator - Only Html</title>
     <H1>UdaySinghMahar HTML Calculator</H1>
 </head>
-<body>
+<bodybgcolor="green">
     <form action="" name="calculator">
         <table>
             <tr>
